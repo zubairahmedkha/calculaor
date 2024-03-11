@@ -3,8 +3,6 @@ let correctAnswer= "Pakistan";
 if (x == correctAnswer){
     console.log("correct");
 }else {console.log("wrong")};*/
-
-let fruits = ['banana','mango','orango','apple']
+var fruits = ['banana', 'mango', 'orango', 'apple'];
 fruits.slice(0);
-
-console.log(fruits[0])
+console.log(fruits[0]);
